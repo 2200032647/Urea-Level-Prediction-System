@@ -1,0 +1,7 @@
+Training report (synthetic data)
+-------------------------------
+Samples: 1000
+Model: RandomForestRegressor(n_estimators=100)
+Test RMSE: 10.179 kg/ha
+
+Note: This is trained on synthetic data for demo purposes.
